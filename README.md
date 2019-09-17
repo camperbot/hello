@@ -1,3 +1,3 @@
-> # Hello World
+> ## Hello World
 
-This is a placeholder project
+This is a placeholder project for 'placeholder' URLs.
